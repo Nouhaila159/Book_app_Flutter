@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028540707148",
+    "project_id": "books-exam",
+    "storage_bucket": "books-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028540707148:android:62690080f71ad278cd9fe9",
+        "android_client_info": {
+          "package_name": "com.example.myflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028540707148-jd0gblkm8an1nesdcbngmd59ko1o5k18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myflutterapp",
+            "certificate_hash": "592eaf89e88a82bb714ab67a1ef439125a10bd48"
+          }
+        },
+        {
+          "client_id": "1028540707148-97lbop9811i92tgnrm5dp5oatlklki8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOotAO7gjJ-wPm1R85-OZLNeJ3N_YKXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028540707148-97lbop9811i92tgnrm5dp5oatlklki8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
